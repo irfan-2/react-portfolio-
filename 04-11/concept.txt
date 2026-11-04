@@ -1,0 +1,10 @@
+1. conditional rendering 
+-> early loading 
+-> termary loading (condition ? true : false)
+=> skip (&&)
+
+2. events and forms (click event handler)
+
+3.hooks (useState and useEffect
+
+)
